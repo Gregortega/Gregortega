@@ -1,7 +1,7 @@
 👋 Hi, I’m Greg
 
 👀 I’m interested in many different tech related things. 
-I work full time as an iOS Dev, but my skills and experience are very significally. 
+I work full time as an iOS Dev, but my skills and experience very significally. 
 
 Im passionate about creating apps, entrepreneurship, photography and videography, and more recently nocode and blockchain.
 
